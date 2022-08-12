@@ -1,8 +1,20 @@
 body{
     background-color: #338ddf;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    
 }
 
 p,label,a,h1{
     color: white;
     font-family: sans-serif;
+}
+
+#grande{
+    margin-top: 10% ;
+    padding: 0;
+    border: medium double #1a1717d7;
+    border-radius: 5%;
+    background-color:#1a1717d7 ;
 }
