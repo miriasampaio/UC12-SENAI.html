@@ -1,0 +1,8 @@
+body{
+    background-color: #338ddf;
+}
+
+p,label,a,h1{
+    color: white;
+    font-family: sans-serif;
+}
