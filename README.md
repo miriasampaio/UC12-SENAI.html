@@ -1,5 +1,7 @@
 # UC12-SENAI.html
 
-site para aula do Curso Senai de programação full-stack.
+projeto do curso de programação Full-Stack ministrado através da instituição Senai
+afim de promover certificado técnico na área. 
 
-em andamento.
+
+finalizado.
